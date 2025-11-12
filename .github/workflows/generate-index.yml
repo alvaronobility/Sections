@@ -3,12 +3,16 @@ name: Generate index.json for PDFs
 on:
   push:
     paths:
-      - 'Sections/**.pdf'  # only trigger when PDFs change
+      - 'Sections/**.pdf'   # only trigger when PDFs change
   workflow_dispatch:
+
+permissions:
+  contents: write           # ✅ allow the workflow to commit and push
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
