@@ -25,9 +25,11 @@ jobs:
             fi
           done
 
-      - name: Commit and push index.json
+      - name: Add and commit index.json files if they exist
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Sections/**/index.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update index.json" && git push)
+          if compgen -G "Sections/**/index.json" > /dev/null; then
+            git add Sections/**/index.json
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update index.json" && git push)
+          else
+            echo "No index.json files found to add."
+          fi
