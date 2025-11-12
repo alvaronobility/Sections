@@ -1,12 +1,14 @@
 import os, json
 
-root_dir = "Sections"
+base_dir = "Sections"
 
-for subdir, dirs, files in os.walk(root_dir):
-    pdfs = [f for f in files if f.lower().endswith(".pdf")]
-    if pdfs:
-        index_path = os.path.join(subdir, "index.json")
-        data = {"pdfs": sorted(pdfs)}
-        with open(index_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-        print(f"✅ Updated {index_path} with {len(pdfs)} PDFs")
+for root, dirs, files in os.walk(base_dir):
+    pdfs = [f for f in sorted(files) if f.lower().endswith(".pdf")]
+    if not pdfs:
+        continue
+
+    index_path = os.path.join(root, "index.json")
+    with open(index_path, "w") as f:
+        json.dump(pdfs, f, indent=2)
+
+    print(f"✅ Created {index_path} with {len(pdfs)} entries.")
