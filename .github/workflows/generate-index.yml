@@ -1,0 +1,33 @@
+name: Generate index.json for PDFs
+
+on:
+  push:
+    paths:
+      - "Sections/**.pdf"
+      - ".github/workflows/generate-index.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate index.json files
+        run: |
+          echo "Generating index.json..."
+          for section in Sections/*; do
+            if [ -d "$section" ]; then
+              pdf_list=$(ls "$section"/*.pdf 2>/dev/null | sed 's|.*/||' | jq -R . | jq -s .)
+              if [ -n "$pdf_list" ]; then
+                echo "$pdf_list" > "$section/index.json"
+              fi
+            fi
+          done
+
+      - name: Commit and push index.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Sections/**/index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update index.json" && git push)
