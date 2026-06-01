@@ -1,1 +1,1 @@
-Qurʾān App
+Smart Qurʾān
