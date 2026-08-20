@@ -1,7 +1,494 @@
 {
   "documents": [],
-  "sections": [],
-  "timestamp": "2026-08-20T08:08:00Z",
+  "sections": [
+    {
+      "description": "The foundational beliefs (Uṣūl al-Dīn) of Islam that form the bedrock of faith: Tawḥīd (Oneness of Allāh), ʿAdl (Divine Justice), Nubuwwah (Prophethood), Imāmah (Divine Successorship), and Maʿād (Resurrection and the Afterlife). This sub-section covers the systematic study of Islamic theology (Kalām), including debates on free will vs. predestination (jabr vs. tafwīḍ vs. amr bayn al-amrayn), the infallibility (ʿiṣmah) of prophets and Imams, the nature of the Qurʾān (created or uncreated), divine attributes (ṣifāt), the problem of theodicy, and responses to theological challenges from atheism, materialism, and other faith traditions. Includes classical works by Shaykh al-Mufīd (Awāʾil al-maqālāt), Shaykh al-Ṣadūq (Kitāb al-Tawḥīd), Sharīf al-Murtaḍā (Al-Dhakhīrah), ʿAllāmah al-Ḥillī (Al-Bāb al-ḥādī ʿashar), and modern theological treatises addressing contemporary philosophical challenges to Islamic belief.",
+      "documentCount": 0,
+      "icon": "🧠",
+      "id": "101",
+      "isHeader": false,
+      "name": "ʿAqīdah \u0026 Kalām (Theology \u0026 Creed)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "The comprehensive study of the Holy Qurʾān itself (al-Muṣḥaf) and the sciences related to its revelation, preservation, and transmission. Topics include: revelation (tanzīl) and its gradual descent (tanjīm), the collection and compilation (jamʿ) of the Qurʾān, the arrangement (tartīb) of verses and chapters, the seven and ten canonical recitation styles (qirāʾāt) and their chains of transmission, abrogating and abrogated verses (nāsikh wa mansūkh), the reasons for revelation (asbāb al-nuzūl) — historical contexts behind specific verses, the miraculous nature (iʿjāz) of the Qurʾān — linguistic, scientific, legislative, and prophetic, the clear and allegorical verses (muḥkamāt wa mutashābihāt), the opening letters (al-ḥurūf al-muqāṭṭaʿāt), and the various textual divisions (juzʾ, ḥizb, rubʿ). Includes works on the inimitability of the Qurʾān by al-Bāqillānī and al-Khaṭṭābī, and Shīʿa-specific works on the collection of the Qurʾān. Key works: Al-Tibyān by Shaykh al-Ṭūsī, Al-Burhān fī ʿulūm al-Qurʾān by al-Zarkashī, Al-Itqān by al-Suyūṭī.",
+      "documentCount": 0,
+      "icon": "📖",
+      "id": "102",
+      "isHeader": false,
+      "name": "ʿUlūm al-Qurʾān (Qurʾān \u0026 Qurʾānic Sciences)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "Books that explain and interpret the verses of the Qurʾān, uncovering their meanings, legal implications, theological significance, and spiritual depths. Includes both traditional (tafsīr bil-maʾthūr) commentaries that rely on the Prophet\u0027s sayings and those of the Imams, and rational (tafsīr bil-raʾy) commentaries that employ intellectual analysis, linguistic study, and philosophical reasoning. Shīʿa-specific works include Tafsīr al-Mīzān by ʿAllāmah Ṭabāṭabāʾī (a philosophical and Qurʾān-based tafsīr), Tafsīr al-Qummī (early Imāmī tafsīr attributed to ʿAlī ibn Ibrāhīm al-Qummī), Tafsīr al-ʿAskarī (attributed to Imam al-ʿAskarī a.s), Majmaʿ al-Bayān by al-Ṭabrisī (comprehensive and balanced), and Tafsīr al-Ṭūsī (Al-Tibyān). Also includes comparative tafsīrs from other schools like Tafsīr Ibn Kathīr (Sunni), Tafsīr al-Rāzī (rational Sunni), and Tafsīr al-Jalālayn. Includes thematic tafsīr (topic-based), scientific tafsīr, and contemporary tafsīr works addressing modern issues.",
+      "documentCount": 0,
+      "icon": "📜",
+      "id": "103",
+      "isHeader": false,
+      "name": "Tafsīr (Exegesis \u0026 Commentary)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "Collections of the sayings (aqwāl), actions (afʿāl), and tacit approvals (taqrīrāt) of the Prophet Muḥammad (ṣ.a.w.a) and the 12 Infallible Imams (a.s). Includes the Four Books (al-Kutub al-Arbaʿah): Al-Kāfī by al-Kulaynī (the most comprehensive), Man lā yaḥḍuruhu al-faqīh by al-Ṣadūq (jurisprudential), Tahdhīb al-aḥkām by al-Ṭūsī (jurisprudential with chains), and Al-Istibṣār by al-Ṭūsī (jurisprudential). Also includes early collections like Baṣāʾir al-darajāt (theological), later encyclopedias like Biḥār al-anwār by al-Majlisī (110 volumes covering all Islamic sciences), Wasāʾil al-shīʿa by al-Ḥurr al-ʿĀmilī (organized by fiqh chapters), Mustadrak al-Wasāʾil, and Saḥīḥat al-Sajjādiyyah (the Psalms of Islam, a collection of supplications from Imam al-Sajjād a.s). Covers the classification of hadith into ṣaḥīḥ (authentic), ḥasan (good), muwaththaq (reliable), ḍaʿīf (weak), and mawḍūʿ (fabricated).",
+      "documentCount": 0,
+      "icon": "📚",
+      "id": "104",
+      "isHeader": false,
+      "name": "ʿUlūm al-Ḥadīth (Ḥadīth \u0026 Ḥadīth Sciences)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "The science of biographical evaluation (ʿilm al-rijāl) — the systematic documentation of the lives, reliability, and trustworthiness (jarḥ wa taʿdīl) of ḥadīth narrators. This sub-section includes works that categorize narrators by their truthfulness, memory, religious standing, and their connections to the Imams. Topics include: classifications of narrators into trustworthy (thiqāt), reliable (maqbūl), weak (ḍuʿafāʾ), unknown (majhūl), and fabricators (kadhdhābūn); chains of transmission (asānīd) and their continuity; the teachers and students of each narrator; their birth and death dates; sectarian affiliations; and the historical context of narration. Key works: Rijāl al-Najāshī (the most authoritative Shīʿa rijāl work), Rijāl al-Kashshī (Maʿrifat akhbār al-rijāl — focused on reliability), Fihrist al-Ṭūsī (catalogue of narrators and their books), Muʿjam rijāl al-ḥadīth by al-Khūʾī (modern 23-volume comprehensive work), Kitāb al-ḍuʿafāʾ by Ibn al-Ghaḍāʾirī, and Al-Jarḥ wa al-taʿdīl by Ibn Abī Ḥātim (Sunni reference). Essential for determining the authenticity of hadith.",
+      "documentCount": 0,
+      "icon": "🔗",
+      "id": "105",
+      "isHeader": false,
+      "name": "Rijāl (Biographical Evaluation)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "Books dedicated to identifying, exposing, and refuting fabricated (mawḍūʿ) and weak (ḍaʿīf) ḥadīths falsely attributed to the Prophet Muḥammad (ṣ.a.w.a) and the 12 Infallible Imams (a.s). Topics include: motives for fabrication (political, sectarian, theological, ideological, pious fraud, economic gain); methods of detection (examining chains of transmission for discontinuity or known liars, textual analysis for linguistic anomalies or theological inconsistency, historical anachronisms, contradiction with the Qurʾān and established hadith); famous fabricators (liars, ghulāt/exaggerators, and extremist sects that infiltrated narrations); and collections that compile known forgeries. Includes both Shīʿa-specific works (critiquing narrations in Shīʿa collections, often addressing ghulāt narrations) and comparative studies (fabrications found in Sunni ḥadīth collections like those criticized by Ibn al-Jawzī and al-Albānī). Key works: Al-Mawḍūʿāt by Ibn al-Jawzī (Sunni), Al-Aḥādīth al-mawḍūʿah by al-Albānī (Sunni), Tanzīh al-anbiyāʾ by Sharīf al-Murtaḍā (refuting forged attributions to prophets), and modern Shīʿa works like Dirāsāt fī al-ḥadīth wa al-mawḍūʿāt by al-Shahīd al-Thānī, and critiques of ghulāt narrations in early Shīʿa sources.",
+      "documentCount": 0,
+      "icon": "⚠️",
+      "id": "106",
+      "isHeader": false,
+      "name": "Al-Waḍʿ (Fabricated Ḥadīths \u0026 Forged Narrations)",
+      "parentSection": "Section 1: Uṣūl al-Dīn \u0026 The Core Sciences (Primary Foundations)"
+    },
+    {
+      "description": "Large, multi-volume encyclopedic works that systematically cover all chapters and topics of Islamic jurisprudence (Furūʿ al-Dīn). These comprehensive manuals detail what is wājib (obligatory), ḥarām (forbidden), mustaḥabb (recommended), makrūh (disliked), and jāʾiz (permissible) in every aspect of life — from worship and ritual purity to commercial transactions, family law, and criminal justice. Includes classical works like Al-Muqniʿ by al-Ṣadūq, Al-Intiṣār by Sharīf al-Murtaḍā, Al-Mabsūṭ by Shaykh al-Ṭūsī (the first comprehensive Shīʿa fiqh encyclopedia), Sharāʾiʿ al-Islām by al-Muḥaqqiq al-Ḥillī, Tadhkirat al-fuqahāʾ by al-ʿAllāmah al-Ḥillī, and modern risālah ʿamaliyyah (manuals of practice) of living marājiʿ (jurists) like Ayatollahs Khomeini, Khamenei, Sīstānī, and others. These works are the primary references for jurists (fuqahāʾ) and the basis for issuing fatwas.",
+      "documentCount": 0,
+      "icon": "📏",
+      "id": "201",
+      "isHeader": false,
+      "name": "Al-Jawāmiʿ (Comprehensive Fiqh Works)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books focused specifically on devotional acts — the direct servitude (ʿibādah) of a Muslim to Allāh. Topics include: Ṭahārah (ritual purity) — detailed rules for wuḍūʾ (ablution), ghusl (full bath), tayammum (dry ablution), najāsāt (impurities), and muṭahhirāt (purifiers); Ṣalāt (daily prayers) — the five obligatory prayers, their times, conditions, nullifiers, qaḍāʾ (makeup), and recommended prayers (nawāfil); Ṣawm (fasting) — fasting in Ramaḍān, its conditions and nullifiers, and recommended fasts (e.g., ʿArafah, Mondays, Thursdays); Zakāt and Khums — the two obligatory taxes, their rates, niṣāb (thresholds), and distribution; Ḥajj (pilgrimage) and ʿUmrah (lesser pilgrimage) — all rites, conditions, obligatory acts, and prohibitions; Jihād (struggle) — the conditions for defensive and offensive jihad, rules of warfare, and the greater jihad (spiritual struggle against the self). Includes detailed discussions on the intention (niyyah), the spiritual dimensions of worship, and the rulings for special circumstances (travel, illness, emergencies). Key works: Miʿrāj al-kamāl (on salāt), Manāsik al-ḥajj, and extensive chapters in all comprehensive fiqh works.",
+      "documentCount": 0,
+      "icon": "🕌",
+      "id": "202",
+      "isHeader": false,
+      "name": "ʿIbādāt (Acts of Worship)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books covering social and economic interactions between people (al-muʿāmalāt) — the rules governing trade, commerce, contracts, and financial dealings. Topics include: trade and commerce (al-bayʿ) — conditions of sale, valid vs. invalid transactions, and prohibited sales (e.g., uncertain goods, usury); loans (al-qarḍ) — rules of lending and borrowing, interest (ribā) and its prohibition; partnerships (al-shirkah) — joint ventures, profit sharing, and liability; tenancy (al-ijārah) — rental agreements, leasing property, and hiring services; gift-giving (al-hibah) — rules of gifts and endowments; endowments (al-waqf) — charitable trusts, conditions, and management; debts and bankruptcy — repayment rules, insolvency, and debt relief; agency (al-wakālah) — appointing representatives for legal and financial matters; surety (al-kafālah) — guarantees and indemnities; reconciliation (al-ṣulḥ) — dispute resolution and compromise agreements. Includes the famous rule \"al-muslimūn ʿind shurūṭihim\" (Muslims are bound by their conditions) and detailed discussions on contracts in Islamic finance. Key works: Al-Jawāhir (on transactions), extensive chapters in all comprehensive fiqh works, and modern Islamic banking and finance treatises.",
+      "documentCount": 0,
+      "icon": "🤝",
+      "id": "203",
+      "isHeader": false,
+      "name": "Muʿāmalāt (Transactions \u0026 Contracts)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books on Islamic criminal law — the fixed punishments (ḥudūd) and discretionary penalties for crimes against Allāh and society. Topics include: Ḥudūd (fixed punishments) for specific crimes: adultery/fornication (zinā) — conditions for proof (four witnesses or confession), punishment (stoning for married, flogging for unmarried), and the strict evidentiary standards (to prevent wrongful execution); false accusation of adultery (qadhf) — punishment of 80 lashes for false accusers; theft (sariqah) — punishment of amputation of the hand, conditions (minimum value, necessity, etc.), and the defense of necessity; drinking alcohol (shurb al-khamr) — punishment of 40-80 lashes; apostasy (riddah) — punishment, repentance conditions, and Shīʿa-specific rulings; armed robbery/highway robbery (ḥirābah) — punishment (execution, crucifixion, amputation, exile based on severity). Also covers Qiṣāṣ (retaliation/retribution) — the right of victims to equivalent retribution for murder and bodily harm, including the conditions, rules of intentional vs. unintentional killing, and the victim\u0027s family\u0027s right to pardon; Diyyah (blood money) — the prescribed compensation for murder and bodily harm, rates based on gender and status, and payment rules; and Taʿzīr (discretionary punishments) — punishments left to the judge\u0027s discretion for crimes not covered by ḥudūd or qiṣāṣ. Key works: Kitāb al-ḥudūd in all comprehensive fiqh works, and specialized treatises on Islamic penal law.",
+      "documentCount": 0,
+      "icon": "⚖️",
+      "id": "204",
+      "isHeader": false,
+      "name": "ʿUqūbāt (Penal Law)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books on family law and personal status — the Islamic framework for marriage, divorce, inheritance, and familial relationships. Topics include: Marriage (Nikāḥ) — permanent marriage (al-nikāḥ al-dāʾim) conditions, essential elements (offer and acceptance, witnesses), the dower (mahr), forbidden categories of marriage (by blood, marriage, and fosterage), and the rights and responsibilities of spouses; temporary marriage (mutʿah) — its permissibility in Shīʿa Islam, conditions, duration, dower, and its distinction from permanent marriage; Divorce (Ṭalāq) — types (reversible and irreversible), conditions, the waiting period (ʿiddah), the formula of divorce, the role of arbitrators, and the revocability of divorce during the waiting period; Child custody (Ḥiḍānah) — the age until which custody belongs to the mother, conditions for custody transfer, and the father\u0027s responsibility for maintenance; Maintenance (Nafaqah) — the obligation of husbands to provide for their wives (food, clothing, shelter) and of fathers for their children; Inheritance (Mīrāth) — the fixed shares (farāʾiḍ) in the Qurʾān, degrees of kinship, the division of estate among heirs, the rules for various family structures (son, daughter, spouse, parents, siblings), the omission of an heir (nawāqid al-irth), and wills and bequests (waṣiyyah) — the maximum allowable bequest (one-third), conditions, and the rules for bequests to non-heirs. Key works: Kitāb al-nikāḥ and Kitāb al-ṭalāq in all comprehensive fiqh works, and modern works on family law reform.",
+      "documentCount": 0,
+      "icon": "👨‍👩‍👧",
+      "id": "205",
+      "isHeader": false,
+      "name": "Al-Aḥwāl al-Shakhṣiyyah (Personal Status Law)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books detailing the Islamic rules for what is permitted (ḥalāl) and forbidden (ḥarām) to consume. Topics include: animals — categories of ḥalāl and ḥarām animals, including land animals (e.g., cattle, sheep, goats, camels, deer are ḥalāl; swine, predatory animals, and some amphibians are ḥarām), birds (e.g., chickens, pigeons are ḥalāl; birds of prey are ḥarām), and sea creatures (all fish with scales and shrimp are ḥalāl in Shīʿa fiqh; shellfish are ḥarām); food and drink — the prohibition of alcohol (khamr) and all intoxicants, rules on consuming items that may contain alcohol (e.g., vanilla extract, kombucha), and the rules for food made by non-Muslims (the People of the Book — their meat may be ḥalāl if properly slaughtered and not containing impurities); the rules for ingredients like gelatin, rennet, and enzymes from animal sources; food additives and modern food processing; eating etiquette (sunna of eating) — saying Bismillāh, eating with the right hand, moderation, avoiding waste, and gratitude after eating; and the rules for fasting and breaking the fast. Key works: Kitāb al-aṭʿimah wa al-ashribah in all comprehensive fiqh works, and modern ḥalāl certification guides.",
+      "documentCount": 0,
+      "icon": "🍽️",
+      "id": "206",
+      "isHeader": false,
+      "name": "Aṭʿimah wa Ashribah (Food \u0026 Drink)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books on the Islamic rules for hunting and ritual slaughter (dhabīḥah) — ensuring that animal-derived food is consumed in a manner compliant with Islamic law. Topics include: The rules of hunting (ṣayd) — permissible animals to hunt, conditions for hunting (using trained animals like falcons or dogs, the use of weapons, ensuring the kill is made by the hunting instrument not by other causes), the requirement to mention Allāh\u0027s name at the time of hunting, and the rules for consuming hunted game; The rules of ritual slaughter (dhabḥ) — the conditions for valid slaughter: the slaughterer must be a Muslim or a person of the Book, the animal must be alive at the time of slaughter, the name of Allāh must be mentioned, the throat, windpipe, and jugular veins must be cut, and the animal must be completely drained of blood; The permissibility of meat from the People of the Book (Christians, Jews) and the debates around it; The rules for animals that die naturally (mawt al-tabīʿī) — they are ḥarām unless slaughtered; and modern issues like mechanical slaughter, stunning, and animal welfare. Key works: Kitāb al-ṣayd wa al-dhabāʾiḥ in all comprehensive fiqh works, and contemporary treatises on halal slaughter and industrial food production.",
+      "documentCount": 0,
+      "icon": "🦌",
+      "id": "207",
+      "isHeader": false,
+      "name": "Al-Ṣayd wa al-Dhabāʾiḥ (Hunting \u0026 Slaughter)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books on Islamic legal procedure, judiciary ethics, and court protocols (qaḍāʾ) — the rules for judges, witnesses, evidence, and the administration of justice. Topics include: The qualifications of a judge (qāḍī) — requirements of being a mature, male or female (in Shīʿa fiqh), Muslim, just, knowledgeable in jurisprudence, and capable of independent reasoning (mujtahid); The appointment of judges and the prohibition of seeking judicial appointments; The rules of evidence (bayyināt) — the types of admissible evidence (the Qurʾān, Sunnah, consensus, and reason in legal theory); Witness testimony (shahādah) — the qualifications of witnesses, the number required for different cases (e.g., two male witnesses or one male and two females for financial matters; four male witnesses for adultery), the rejection of testimony, and the punishment for false testimony (qadhf); Oaths (yamīn) — rules for administering oaths, the form of the oath, and their role in judicial proceedings; The procedures of the court (al-adab al-qāḍī) — the etiquette of the courtroom, the conduct of the litigants, and the judge\u0027s role in arbitration; The differentiation between personal and public rights; Islamic alternative dispute resolution (al-ṣulḥ); and the relationship between the judiciary and the executive. Key works: Kitāb al-qadāʾ in all comprehensive fiqh works, and specialized treatises on Islamic court procedures.",
+      "documentCount": 0,
+      "icon": "🏛️",
+      "id": "208",
+      "isHeader": false,
+      "name": "Ādāb al-Qaḍāʾ (Judicial Etiquette \u0026 Court Procedures)",
+      "parentSection": "Section 2: Fiqh \u0026 Uṣūl al-Fiqh (Jurisprudence \u0026 Law)"
+    },
+    {
+      "description": "Books documenting the comprehensive history of Islam from the pre-Islamic era (Jāhiliyyah) through the time of the Prophet (ṣ.a.w.a), the Rightly Guided Caliphs, and the great Islamic dynasties — the Umayyads, ʿAbbāsids, Fāṭimids, Ṣafavids, Qājārs, Ottomans, and up to modern times. Topics include: The political, social, and cultural history of Islamic civilization; the rise and fall of dynasties and caliphates; the development of Islamic governance and state structures; major battles, conquests, and political events; the reasons for sectarian divisions and the historical development of the Shīʿa-Sunni schism; the role of the Imams in history; the influence of Islamic civilization on global history (translation movements, scientific contributions, and cultural transmission); the history of Islamic cities (Mecca, Medina, Jerusalem, Baghdad, Cairo, Isfahan, Qom, Najaf, Karbalā); and the modern history of Islamic states, colonialism, and the Islamic world\u0027s engagement with the West. Includes comprehensive works like Tarīkh al-Ṭabarī (the most famous universal history), Murūj al-dhahab by al-Masʿūdī (detailed and engaging history), Al-Kāmil fī al-tarīkh by Ibn al-Athīr, and modern works on Islamic history by scholars like Albert Hourani and Bernard Lewis.",
+      "documentCount": 0,
+      "icon": "📅",
+      "id": "301",
+      "isHeader": false,
+      "name": "Tarīkh (General Islamic History)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books detailing the comprehensive life of the Prophet Muḥammad (ṣ.a.w.a) — his life before and after prophethood, the revelation of the Qurʾān, his struggle and success, and his final years. Topics include: His birth, lineage, and early life in Mecca; his marriage to Khadījah (a.s) and the incident of the first revelation (the cave of Hira); his call to Islam secretly and publicly; the persecution faced by the Prophet and early Muslims in Mecca (the boycott, the persecution of Bilāl and other companions); the miraculous journeys (al-Isrāʾ wa al-Miʿrāj — the night journey and ascension); the migration (hijrah) to Medina and the establishment of the first Islamic state; the major battles (Badr, Uḥud, Khandaq/Trench, Khaybar, Ḥunayn); the treaties and diplomatic missions (Treaty of Ḥudaybiyyah, letters to kings); the conquest of Mecca and the final eradication of idolatry; his farewell sermon (khutbat al-waḍāʿ) — the final address and human rights declaration; his death and the response of the companions; and the legacy of the Prophet — his sayings, actions, and the farewell pilgrimage. Key works: Sīrah Ibn Hishām (the most famous classical biography), Al-Sīrah al-Ḥalabiyyah by al-Ḥalabī, Dalāʾil al-nubuwwah by al-Bayhaqī, and modern biographies like Muḥammad: His Life Based on the Earliest Sources by Martin Lings.",
+      "documentCount": 0,
+      "icon": "👑",
+      "id": "302",
+      "isHeader": false,
+      "name": "Sīrah (Prophetic Biography)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books dedicated specifically to the 12 Infallible Imams (a.s) — their individual biographies, virtues, struggles, teachings, and martyrdom. Topics include: The life and virtues of Imam ʿAlī ibn Abī Ṭālib (a.s) — his birth in the Kaʿbah, his unique relationship with the Prophet, his role in early Islam, his teachings, and his martyrdom; Imam Ḥasan (a.s) — his life, the treaty, and his martyrdom; Imam Ḥusayn (a.s) — his uprising, Karbalā, and his sacrifice; the subsequent Imams — Imam al-Sajjād (a.s), Imam al-Bāqir (a.s), Imam al-Ṣādiq (a.s), Imam al-Kāẓim (a.s), Imam al-Riḍā (a.s), Imam al-Jawād (a.s), Imam al-Hādī (a.s), Imam al-ʿAskarī (a.s), and Imam al-Mahdī (a.s); their chains of transmission of knowledge, their educational and scholarly contributions (especially Imam al-Ṣādiq\u0027s founding of the Jaʿfarī school); their ethical teachings and sayings; their miracles (muʿjizāt) and virtues (manāqib); their struggles against the Umayyad and Abbasid oppressors; their martyrdom (shahādah) and burial places; and the unique role of Fāṭimah al-Zahrāʾ (a.s) and Lady Zaynab (a.s). Key works: ʿUyūn akhbār al-Riḍā by Shaykh al-Ṣadūq, Manāqib Āl Abī Ṭālib by Ibn Shahr Āshūb, Maṭālib al-saʾūl, and Al-Khaṣāʾiṣ by al-Mufīd.",
+      "documentCount": 0,
+      "icon": "🌟",
+      "id": "303",
+      "isHeader": false,
+      "name": "Ahl al-Bayt (Imams \u0026 Their Lives)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books focused specifically on the martyrdom of the Imams and their companions, especially the central tragedy of Imam Ḥusayn (a.s) and the events of Karbalā. Topics include: The accounts of the events leading to Karbalā — Yazīd\u0027s succession to the caliphate, Imam Ḥusayn\u0027s refusal to swear allegiance, his departure from Medina, the warnings received and ignored, the siege and martyrdom of Muslim ibn ʿAqīl and others; The day of ʿĀshūrā — the precise sequence of events, the killing of Imam Ḥusayn and his companions, his sermons, the thirst, the children, and the family\u0027s suffering; The capture of the Ahl al-Bayt and their journey to Syria; The sermons of Zaynab (a.s) and Imam al-Sajjād (a.s) in Kufa and in the courts of Yazīd; The mourning rituals and the development of the tradition of lamentation (marthiya) and majālis (gatherings of mourning); The theological and historical significance of Karbalā (the eternal struggle between good and evil, tyranny and truth); and the literature of lamentation. Key works: Maqtal al-Ḥusayn by Abū Mikhnaf (the earliest and most authoritative), Luhūf (al-Malāhim) by Ibn Ṭāwūs, Nafas al-mahmūm by Shaykh ʿAbbās al-Qummī, and the comprehensive Maqātil al-Ṭālibiyyīn by Abū al-Faraj al-Iṣfahānī.",
+      "documentCount": 0,
+      "icon": "💿",
+      "id": "304",
+      "isHeader": false,
+      "name": "Maqātil (Martyrology \u0026 Karbalā Literature)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books that categorize and document the lives of thousands of Islamic figures (companions, successors, scholars, narrators, jurists, philosophers, poets) by generation (ṭabaqah) — a systematic prosopography of Islamic intellectual history. Topics include: The biographical information for each figure: full name, lineage, tribe, birth and death dates, teachers and students, major works, travels, scholarly assessments (as in ʿilm al-rijāl), and contributions to various fields; The classification of individuals into hierarchical generations (e.g., the first generation — companions of the Prophet; the second — the successors; and so on); The evaluation of their historical role, reliability, and legacy; The documentation of women scholars, narrators, and historical figures; The documentation of non-Muslims who interacted with the Islamic world and their contributions; and the comprehensive coverage of all Islamic disciplines. Key works: Ṭabaqāt al-kubrā by Ibn Saʿd (Sunni — the most famous), Ṭabaqāt aʿlām al-shīʿa by Āqā Buzurg al-Tihrānī (Shīʿa — 25 volumes covering Shīʿa scholars from the first to the 20th century), Ṭabaqāt al-fuqahāʾ by Ibn al-Qāḍī al-Shahīd, and other ṭabaqāt works on jurists, narrators, poets, and theologians.",
+      "documentCount": 0,
+      "icon": "👤",
+      "id": "305",
+      "isHeader": false,
+      "name": "Ṭabaqāt (Biographical Dictionaries)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books detailing the lives and missions of the prophets sent before Prophet Muḥammad (ṣ.a.w.a) — Ādam, Idrīs, Nūḥ, Hūd, Ṣāliḥ, Ibrāhīm, Ismāʿīl, Isḥāq, Lūṭ, Yaʿqūb, Yūsuf, Ayyūb, Mūsā, Hārūn, Dāwūd, Sulaymān, Ilyās, al-Yasaʿ, Yūnus, Dhū al-Kifl, Zakariyyā, Yaḥyā, and ʿĪsā (peace be upon them all). Topics include: The Qurʾānic accounts of each prophet and their people; The miracles, struggles, and triumphs of each prophet; The moral lessons from their lives (patience, trust in God, and calling to monotheism); The extra-Qurʾānic traditions from ḥadīth and tafsīr literature about the prophets, their families, and their miracles; The theological significance of their stories; The comparative accounts of prophets in Islamic and biblical traditions; and the unique position of Prophet Muḥammad (ṣ.a.w.a) as the seal of prophets. Key works: Qiṣaṣ al-anbiyāʾ by al-Thaʿlabī (comprehensive and popular), Qiṣaṣ al-anbiyāʾ by Ibn Kathīr (more critical and concise), Arāʾis al-majālis by al-Thaʿlabī, and the dedicated sections on prophets in Tafsīr works and general histories.",
+      "documentCount": 0,
+      "icon": "📜",
+      "id": "306",
+      "isHeader": false,
+      "name": "Qiṣaṣ al-Anbiyāʾ (Stories of the Prophets)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books documenting the lives of the companions (ṣaḥābah) of Prophet Muḥammad (ṣ.a.w.a) and the next generation (tābiʿūn) — their biographical details, virtues, roles, and contributions. Topics include: Biographies of prominent companions from both Shīʿa and Sunni perspectives — Salmān al-Fārsī, Abū Dharr al-Ghifārī, Miqdād ibn al-Aswad, ʿAmmār ibn Yāsir, Bilāl al-Ḥabashī, and other early martyrs; Biographies of later companions like Abū Bakr, ʿUmar, ʿUthmān, and Ṭalḥah (with differing evaluative assessments between the two major traditions); The companions\u0027 roles in early Islam, their participation in battles, their narrations of ḥadīth (as sources of Islamic law), and their scholarly and political contributions; The theological and historical debates on companion reliability (ʿadālah al-ṣaḥābah) — whether all companions are trustworthy (the Sunni position) or whether only those who remained loyal to the Ahl al-Bayt are reliable (the Shīʿa position); The analysis of individual companions in terms of their truthfulness, memory, and religious standing; The categorization of companions by their allegiance to the Imams, with special attention to the early Shīʿa companions; The biographies of successors who followed the companions, their students, and their contributions to Islamic scholarship; and the establishment of the Sunni and Shīʿa traditions as distinct communities. Key works: Uṣūl al-kāfī (companion sections with Imam\u0027s commentary), Rijāl al-Kashshī (companion biographies from a Shīʿa perspective), and Sunni Ṭabaqāt works by Ibn Saʿd and Ibn Ḥibbān.",
+      "documentCount": 0,
+      "icon": "👥",
+      "id": "307",
+      "isHeader": false,
+      "name": "Ṣaḥābah \u0026 Tābiʿūn (Companions \u0026 Successors)",
+      "parentSection": "Section 3: Tarīkh \u0026 Sīrah (History \u0026 Biography)"
+    },
+    {
+      "description": "Books on Islamic ethics, moral philosophy, and character development — the systematic study of virtues (faḍāʾil) and vices (radhāʾil), and the practical means of developing a noble character (ḥusn al-khuluq) in accordance with the Qurʾān and Sunnah. Topics include: The definition and methodology of Islamic ethics (the distinction between theoretical and practical ethics); The virtues (faḍāʾil) — honesty, humility, generosity, patience (ṣabr), gratitude (shukr), justice (ʿadl), courage (shajāʿah), contentment (riḍā), trust in God (tawakkul), and sincerity (ikhlāṣ); The vices (radhāʾil) — arrogance (kibr), envy (ḥasad), greed (ṭamaʿ), anger (ghaḍab), hypocrisy (nifāq), backbiting (ghībah), slander, pride, miserliness, and worldliness; The doctrine of the middle path (wasat) between extremes; The role of intellect, revelation, and custom in moral reasoning; Self-purification (tazkiyah) as the foundation of ethics — the means of purifying the heart from diseases; The practical advice for improving one\u0027s moral character through discipline, reflection, and practice; The spiritual dimensions of ethics (the ethical and moral are not distinct — they are united in character); The relation of ethics to Islamic law (fiqh) and theology (kalām); The role of community and family in shaping ethics; The concept of accountability (ḥisāb) and the weighing of deeds on the Day of Judgment; and the ethics of modern life — technology, work, leadership, and environmental responsibility. Key works: Tahdhīb al-akhlāq by Ibn Miskawayh, Jāmiʿ al-saʿādāt by al-Narāqī, Al-Maḥajjah al-bayḍā by al-Fayḍ al-Kāshānī, and modern works on Islamic ethics by scholars like Seyyed Hossein Nasr and Tariq Ramadan.",
+      "documentCount": 0,
+      "icon": "💎",
+      "id": "401",
+      "isHeader": false,
+      "name": "Akhlaq (Ethics \u0026 Moral Character)",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Books focused on the inner struggle (jihād al-akbar) to purify the soul from spiritual diseases and attain spiritual excellence (iḥsān). Topics include: Repentance (tawbah) — its conditions (regret, cessation of sin, and firm resolve not to return), and its fruit — forgiveness and spiritual renewal; Spiritual disciplines (riyāḍāt al-nafs) — fasting, prayer, night vigil, and other practices to train the soul; Self-accounting (muḥāsabah) — the practice of daily introspection, evaluating one\u0027s thoughts and deeds; Meditation and reflection (tafakkur) — contemplating the creation, the signs of God, the brevity of life, and the reality of death; The stages of spiritual development — the descent of the ego (nafs) from the lower to the higher stations: the commanding self (nafs al-ammārah), the blaming self (nafs al-lawwāmah), the inspired self (nafs al-mulhimah), the contented self (nafs al-muṭmaʾinnah), and the purified self (nafs al-zakiyyah); The removal of spiritual diseases from the heart (jealousy, pride, hatred, doubt, and attachment to this world); The spiritual exercises for cultivating love for God and His creation; The concept of divine unity (tawḥīd) as the foundation of spiritual purity; The goal of the soul — union with God and His pleasure; and the application of spiritual principles in daily life. Key works: Minhāj al-ṣāliḥīn by al-Nawawī, Kitāb al-zuhd by Ibn al-Mubārak, Al-Ḥikam al-ʿAtāʾiyyah by Ibn ʿAṭāʾ Allāh al-Iskandarī, and the comprehensive work by al-Fayḍ al-Kāshānī.",
+      "documentCount": 0,
+      "icon": "🤍",
+      "id": "402",
+      "isHeader": false,
+      "name": "Tazkiyah (Purification of the Soul)",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Books on Islamic mysticism and gnosis within the framework of Shīʿa teachings — the highest and most profound spiritual knowledge. Topics include: The distinction and complementarity between theoretical ʿirfān (philosophical and metaphysical exploration of the nature of reality, God, and the soul) and practical ʿirfān (spiritual wayfaring, the path of the heart, and the practice of divine love); The philosophical foundations — the doctrines of the unity of being (waḥdat al-wujūd) and its critical interpretations in Shīʿa philosophy; The metaphysical discussions of the nature of existence, the reality of creation, the relation between the Creator and the created, and the spiritual significance of the human being as the microcosm (al-insān al-kāmil); The works of the great philosophers and mystics — Mullā Ṣadrā, Ibn ʿArabī (with Shīʿa interpretations), and their commentator Suhrawardī; The relationship between ʿirfān and other Islamic sciences — theology (kalām), law (fiqh), and ethics (akhlāq); The spiritual practices and disciplines (sulūk) associated with the path of ʿirfān — including meditation, dhikr, and the spiritual retreat (khalwah); The stages of spiritual discovery (kashf) — from unveiling (mukāshafah) to witnessing (mushāhadah); The concept of the perfect man (insān kāmil) and the spiritual heart; The commentaries on the Duʿāʾ al-Saḥar, Miṣbāḥ al-hidāyah, and other profound spiritual texts; and the relationship between the esoteric (bāṭin) and the exoteric (ẓāhir) dimensions of Islam. Key works: The writings of Mullā Ṣadrā (Asfār al-arbaʿah, Sharḥ al-uṣūl al-kāfī), Imam Khomeini\u0027s commentary on the Duʿāʾ al-Saḥar and his Miṣbāḥ al-hidāyah, and the works of Ibn ʿArabī (Fuṣūṣ al-ḥikam) as interpreted and adapted by Shīʿa scholars.",
+      "documentCount": 0,
+      "icon": "🧘",
+      "id": "403",
+      "isHeader": false,
+      "name": "ʿIrfān (Gnosis \u0026 Spirituality)",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Books containing the supplications (duʿāʾ) taught by the Prophet (ṣ.a.w.a) and the Imams (a.s) — the most comprehensive and profound collection of prayers in Islamic spiritual tradition. Topics include: Daily prayers and remembrances (tasbīḥ, tahlīl, taḥmīd, takbīr) to be recited at specific times of the day (morning and evening), before and after prayer, before sleeping, upon waking, entering the home, traveling, eating, and other occasions; The spiritual meanings and benefits of each supplication; The comprehensive duʿāʾ collections — the Ṣaḥīfah al-Sajjādiyyah (The Psalms of the Ahl al-Bayt) by Imam Zayn al-ʿĀbidīn (a.s), which contains 54 prayers covering every aspect of life and spirituality — it is considered the \"Psalms of Islam\" and is studied for its theological depth and spiritual beauty; Mafātīḥ al-jinān (Keys to the Gardens of Paradise) by Shaykh ʿAbbās al-Qummī, the most popular collection of Shīʿa supplications, containing prayers for all occasions — the prayer of ʿĀshūrāʾ, the prayer of the month of Ramaḍān, the prayer of the night of Qadr, and the prayer of the last Friday of Ramadan; Miṣbāḥ al-mutahajjid (the night lamp) by al-Ṭūsī; Iqbāl al-aʿmāl by Ibn Ṭāwūs; and the prayers for specific needs (ḥājāt) and for the removal of calamities; The etiquette of supplication — the proper state of mind, sincerity, and submission; The role of duʿāʾ in personal spiritual development and in the spiritual relationship with God; and the practical application of adhkār in daily life to maintain a constant awareness of God.",
+      "documentCount": 0,
+      "icon": "🙏",
+      "id": "404",
+      "isHeader": false,
+      "name": "Duʿāʾ \u0026 Adhkār (Supplications \u0026 Remembrances)",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Books dedicated to the etiquette (ādāb) and recommended practices of visiting the graves of the Prophet, Imams, their descendants (Imāmzādah), and righteous believers — the sacred pilgrimages of the Shīʿa tradition. Topics include: The historical and theological significance of visiting holy shrines; The specific ziyārah texts (duʿāʾs) to be recited at each shrine — the ziyārah of the Prophet (ṣ.a.w.a) at Medina, the ziyārah of Imam ʿAlī (a.s) at Najaf, the ziyārah of Imam Ḥusayn (a.s) at Karbalā, the ziyārah of Imam al-Riḍā (a.s) at Mashhad, the ziyārah of Fāṭimah al-Maʿṣūmah at Qom, and the ziyārah of the Imams in Sāmarrā, Kāẓimayn, and Medina; The rules and conditions of visiting the shrines — the state of purity (ṭahārah), the appropriate intention (niyyah), the dress code, and the proper decorum; The spiritual benefits of the ziyārah — the closeness to the Imams, the strengthening of faith, the forgiveness of sins, and the answering of prayers; The comparative study of ziyārah as a Shīʿa distinctive practice; The history of the development of the shrines and their role in Shīʿa identity; The books like Kāmil al-ziyārāt by Ibn Qūlawayh, the authoritative collection of ziyārah prayers; Al-Mazār al-kabīr by al-Mashhadī; and the modern guides to ziyārah for pilgrims. The ziyārah is considered a means of spiritual and political resistance against oppression, especially in the context of Karbalā.",
+      "documentCount": 0,
+      "icon": "🕯️",
+      "id": "405",
+      "isHeader": false,
+      "name": "Ziyārah \u0026 Shrine Visitations",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Collections of sermons, lectures, and inspiring advice from the Prophet, Imams, and major scholars, designed to guide and encourage the believers. Topics include: The sermons of Imam ʿAlī (a.s) — Nahj al-Balāghah (Peak of Eloquence), the most famous collection of sermons, letters, and sayings of Imam ʿAlī, covering theology, ethics, governance, spirituality, and social justice — it is one of the most studied texts in Shīʿa Islam after the Qurʾān; The sermons of other Imams (a.s), including their teachings on ethics, theology, and spirituality; The sermons and exhortations of major Shīʿa scholars and preachers, including the traditional Friday sermons (khutbah) of Friday prayers; The art of preaching (waʿẓ) and its role in the community — the style and etiquette of the preacher, the education of the community, and the application of Islamic teachings to contemporary issues; The sermons of motivation, admonition, and guidance; The scholarly lectures on ethics, theology, and spirituality that are delivered in the seminaries (hawzāt); The modern collections of influential sermons and the works of scholars like Imam Khomeini (e.g., \"Kashf al-Asrār\") and the lectures of Muṭahharī, Mutawallī, and modern preachers; The role of sermons in inspiring piety, social justice, and community action. The mawāʿiẓ are a primary vehicle for the transmission of Islamic teachings outside the scholarly texts, using rhetorical power to effect spiritual transformation.",
+      "documentCount": 0,
+      "icon": "📢",
+      "id": "406",
+      "isHeader": false,
+      "name": "Mawāʿiẓ \u0026 Waʿẓ (Sermons \u0026 Exhortations)",
+      "parentSection": "Section 4: Akhlāq \u0026 Taṣawwuf (Ethics \u0026 Spirituality)"
+    },
+    {
+      "description": "Books on Islamic philosophy, metaphysics, epistemology, and philosophical theology — the rational and intellectual traditions of the Islamic world. Topics include: The history of Islamic philosophy — from the translation of Greek philosophy (Aristotle, Plato, Plotinus) into Arabic, to the development of original philosophical systems; The works of the major philosophers: Al-Kindī (the father of Arab philosophy), Al-Fārābī (the second teacher after Aristotle), Ibn Sīnā (Avicenna) — his works on metaphysics, logic, and medicine (the Canon of Medicine), Suhrawardī (the founder of Illuminationist Philosophy — Ishrāq), and Mullā Ṣadrā (the founder of Transcendent Philosophy — al-ḥikmah al-mutaʿāliyah); The core philosophical discussions: the existence of God (the cosmological, ontological, and design arguments), the nature of the soul and its relation to the body, the problem of universals, causality, essence vs. existence, the nature of time and eternity, and the relationship between reason and revelation; The Islamic critique of Greek philosophy and the defense of religious reason; The influence of Islamic philosophy on medieval European thought and on the Renaissance; The Shīʿa engagement with philosophy, including the works of philosophers like Ṭūsī, Dawānī, and Khomeini; The relationship between philosophy and other Islamic disciplines — theology (kalām), mysticism (ʿirfān), and law (fiqh); and the modern revival of Islamic philosophy in the works of contemporary thinkers like Seyyed Hossein Nasr and Muhammad Baqir al-Sadr. Key works: Asfār al-arbaʿah by Mullā Ṣadrā, Sharḥ al-ishārāt by Naṣīr al-Dīn al-Ṭūsī, and Al-Najāt by Ibn Sīnā.",
+      "documentCount": 0,
+      "icon": "🧠",
+      "id": "501",
+      "isHeader": false,
+      "name": "Falsafah (Islamic Philosophy)",
+      "parentSection": "Section 5: Falsafah, Manṭiq \u0026 ʿUlūm (Philosophy, Logic \u0026 Sciences)"
+    },
+    {
+      "description": "Books on formal logic as a tool for correct reasoning and argumentation in theology, jurisprudence, and philosophy — the methodology of accurate thinking. Topics include: Propositions (qaḍāyā) — the types of propositions: universal, particular, affirmative, negative, categorical, and conditional; Syllogisms (qiyās) — the structure of arguments, the terms (minor, middle, major), the forms (modes and figures), and the rules for valid inference; Definitions (ḥudūd) — the art of defining concepts correctly; The different types of reasoning — induction (istiqrāʾ), analogy (tamthīl), and deduction (qiyās); Fallacies (maghāliṭ) — common logical errors (equivocation, false cause, appeal to authority, ad hominem, etc.) and how to avoid them; The logical analysis of arguments — the identification of premises, assumptions, and conclusions; The use of logic in theological debates (kalām) — defending the faith against heretics and skeptics; The role of logic in jurisprudence (fiqh) — the construction of analogies (qiyās fī al-fiqh) and the reconciliation of conflicting evidences; The modern developments in logic and the application to contemporary challenges; Key works: Al-Ishārāt wa al-tanbīhāt by Ibn Sīnā, Tajrīd al-manṭiq by Naṣīr al-Dīn al-Ṭūsī, Al-Mukhtaṣar al-manṭiqī by al-Khunsarī, and modern textbooks on logic used in the Hawzah.",
+      "documentCount": 0,
+      "icon": "🔍",
+      "id": "502",
+      "isHeader": false,
+      "name": "Manṭiq (Logic)",
+      "parentSection": "Section 5: Falsafah, Manṭiq \u0026 ʿUlūm (Philosophy, Logic \u0026 Sciences)"
+    },
+    {
+      "description": "Books that combine revelation (sharīʿah), rational philosophy (falsafah), and spiritual intuition (kashf) — the higher level of Islamic wisdom often associated with the \u0027school of Iṣfahān\u0027 and Mullā Ṣadrā\u0027s transcendent philosophy (al-ḥikmah al-mutaʿāliyah). Topics include: The synthesis of intellect (ʿaql), revelation (waḥy), and gnosis (ʿirfān) — the three sources of divine knowledge and their complementarity; The metaphysics of existence — the nature of being (wujūd), its levels (tashkīkī), and its relation to divine attributes; The concept of the unity of being (waḥdat al-wujūd) and its Shīʿa interpretation; The role of the perfect man (al-insān al-kāmil) as the microcosm and the manifestation of divine names and attributes; The theory of knowledge — intellectual intuition (kashf) as a legitimate source of knowledge alongside reason and revelation; The cosmology of the soul and its journey through the spiritual realms; The integration of philosophy, mysticism, and law — the unity of all Islamic sciences; The relationship between the exoteric (ẓāhir) and esoteric (bāṭin) dimensions of faith; The works of the Isfahan school (Mīr Dāmād, Mullā Ṣadrā, and their successors); The influence of Ḥikmah on later Islamic thought, particularly in Iran and the modern Islamic revival; Key works: Al-Asfār al-arbaʿah by Mullā Ṣadrā, Al-Ḥikmah al-mutaʿāliyah fī al-asfār al-ʿaqliyyah al-arbaʿah, and the commentaries on the works of Ibn ʿArabī from a Shīʿa perspective.",
+      "documentCount": 0,
+      "icon": "🧩",
+      "id": "503",
+      "isHeader": false,
+      "name": "Ḥikmah (Wisdom \u0026 Theosophy)",
+      "parentSection": "Section 5: Falsafah, Manṭiq \u0026 ʿUlūm (Philosophy, Logic \u0026 Sciences)"
+    },
+    {
+      "description": "Books on the relationship between Islam and the natural sciences, as well as classical Islamic contributions to medicine, astronomy, physics, chemistry, biology, and geography. Topics include: The history of scientific inquiry in the Islamic world — the translation movement, the establishment of observatories, hospitals, and universities; The contributions of Muslim scientists — Ibn Sīnā (Canon of Medicine — a medical encyclopedia used in Europe until the 17th century), al-Bīrūnī (contributions to astronomy, geography, and anthropology), al-Rāzī (discoveries in chemistry and medicine), Ibn al-Haytham (optics and the scientific method), and al-Ṭūsī (astronomy and the development of the Tusi-couple); The scientific miracles (iʿjāz ʿilmī) of the Qurʾān — the compatibility of Qurʾānic verses with modern scientific discoveries (embryology, cosmology, the water cycle, etc.); The debates on creation vs. evolution — the Islamic perspective on the origin of life, Darwinian evolution, and the compatibility of science and religion; Islamic bioethics — contemporary fatwas on cloning, IVF, organ donation, genetic engineering, stem cell research, euthanasia, and reproductive technologies; The relationship between faith and scientific inquiry (the doctrine of the compatibility of science and faith); The environmental ethics of Islam — the stewardship of the earth (khalīfah), conservation, and the prohibition of waste; The contributions of modern Muslim scientists and the revival of the tradition of scientific inquiry in the Islamic world; Key works: The Canon of Medicine by Ibn Sīnā, The Book of Optics by Ibn al-Haytham, and modern works on Islamic bioethics and the relationship between faith and science.",
+      "documentCount": 0,
+      "icon": "🔬",
+      "id": "504",
+      "isHeader": false,
+      "name": "ʿUlūm al-Ṭabīʿiyyah (Natural Sciences in Islam)",
+      "parentSection": "Section 5: Falsafah, Manṭiq \u0026 ʿUlūm (Philosophy, Logic \u0026 Sciences)"
+    },
+    {
+      "description": "Books on the occult sciences, talismans, the properties of numbers and letters, and other esoteric traditions that, while sometimes controversial, are a part of the historical intellectual landscape of the Islamic world. Topics include: The science of letters (ʿilm al-ḥurūf) — the mystical interpretation of the letters of the Arabic alphabet and their relation to cosmology; The science of numbers (ʿilm al-adad) — the mystical properties of numbers and their use in talismans (ṭilasm) and invocations; The science of the properties of names (ʿilm al-khawāṣṣ) — the special properties of divine names, and their use in spiritual healing and protection; The esoteric traditions inherited from Greek and Hermetic sources, and their integration into Islamic mysticism; The theory and practice of talismans — their construction, their use in protection and spiritual power, and their limitations; The use of the science of letters for divination, geomancy (ʿilm al-raml), and astrological predictions; The controversies over the permissibility of these sciences — the debate between their practitioners and the orthodox jurists (fuqahāʾ) regarding their legitimacy; The works of the leading authors in the field — including al-Būnī (Shams al-maʿārif), who is considered the master of Islamic occult sciences, and other scholars; The contemporary application of occult sciences in popular Islamic piety; and the distinction between acceptable spiritual practices (duʿāʾ, dhikr) and those considered forbidden (siḥr — magic). Note: This sub-section is generally recognized as a historical and, at times, contentious part of the Islamic intellectual heritage; it is often studied more for its cultural and historical significance than for its practical application.",
+      "documentCount": 0,
+      "icon": "🔮",
+      "id": "505",
+      "isHeader": false,
+      "name": "Sīmiyāʾ \u0026 Khawāṣṣ (Occult Sciences \u0026 Properties)",
+      "parentSection": "Section 5: Falsafah, Manṭiq \u0026 ʿUlūm (Philosophy, Logic \u0026 Sciences)"
+    },
+    {
+      "description": "Books on Arabic linguistics, grammar, morphology, rhetoric, and lexicography — the essential tools for understanding the Qurʾān, ḥadīth, and the classical texts of the Islamic tradition. Topics include: Grammar (naḥw) — the study of syntax, the rules of sentence structure, the classification of words (nouns, verbs, particles), the cases (nominative, accusative, genitive), and the declension of nouns and verbs; Morphology (ṣarf) — the study of word formation, the root structure of Arabic words (the three/four/five-letter root), the derivation of forms, and the patterns of verbs, nouns, and adjectives; Rhetoric (balāghah) — the study of eloquence and the art of persuasive speech, including the three main branches: ʿilm al-maʿānī (the study of meaning and context), ʿilm al-bayān (the study of figurative language and comparisons), and ʿilm al-badīʿ (the study of linguistic beauty and stylistic devices); Lexicography (muʿjam) — the dictionaries of the Arabic language and the study of its vocabulary, including the detailed definitions of words, their classical usage, and their semantic evolution; The traditional Arabic dictionaries (al-Kitāb by Sībawayh — the foundational work of grammar; Lisān al-ʿArab by Ibn Manẓūr — the most comprehensive dictionary; Al-Mufradāt fī gharīb al-qurʾān by al-Rāghib al-Iṣfahānī — the dictionary of Qurʾānic vocabulary); The grammatical works of the great grammarians (al-Khalīl ibn Aḥmad, Sībawayh, al-Mubarrad, al-Zajjāj, and al-Farrāʾ); The study of Arabic syntax and morphology in the context of Qurʾānic exegesis and ḥadīth comprehension; The relationship between Arabic and other Semitic languages; The modern developments in Arabic linguistics and the revival of the Arabic language in the 19th and 20th centuries; and the importance of mastering Arabic for the serious study of Islamic sciences. Key works: Al-Asās by al-Zamakhsharī, and contemporary Arabic grammar textbooks.",
+      "documentCount": 0,
+      "icon": "📖",
+      "id": "601",
+      "isHeader": false,
+      "name": "Lughah (Arabic Language \u0026 Grammar)",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Books on Islamic educational theory, teaching methodology, curriculum design, and the comprehensive pursuit of knowledge (ṭalab al-ʿilm) in Islam — the foundations of learning in the Islamic tradition. Topics include: The obligation to seek knowledge as a religious duty (farḍ ʿayn vs. farḍ kifāyah) — the classification of knowledge and the responsibility of the individual and the community; The virtues of knowledge and scholars in the Qurʾān and ḥadīth — the superiority of the scholar over the worshipper, the preservation of knowledge, and the light that God bestows upon the student of knowledge; The teacher-student relationship and proper etiquette (ādāb al-mutaʿallim wa al-muʿallim) — respect, humility, patience, sincerity, and the role of the teacher as a spiritual guide; Traditional Islamic educational institutions and their history (Hawza, Madrasah, Kuttāb, Maktab, and Majlis) — the development of the educational system from the early Islamic period to the present; The structure of Hawza studies (introductory, intermediate, and advanced levels) and the subjects taught (muqaddimāt — the foundational texts, uṣūl — the principles of jurisprudence, fiqh — jurisprudence, tafsīr — exegesis, etc.); The Islamic educational principles derived from the Qurʾān and Sunnah — gradual teaching (tadarruj), using parables and stories (amthāl and qiṣaṣ), individual attention (muraʿāh), and positive reinforcement (tashjīʿ); The pedagogy for memorizing the Qurʾān (tahfīẓ) — effective methods, the use of repetition, and the spiritual environment for memorization; The spiritual and ethical dimensions of education (tarbiyah and taʿlīm as interconnected — the holistic cultivation of the human being); Syllabus development for both religious and secular subjects — the integration of knowledge; Homeschooling and alternative education models; The challenges facing Islamic education in the modern world (secularism, technology, globalization, identity crises); The role of parents and the community in nurturing lifelong learning (tarbiyah is a lifelong process); The works of classical scholars like Al-Khaṭīb al-Baghdādī (Jāmiʿ li-akhlāq al-rāwī — on the etiquette of the student of ḥadīth), Ibn Jamāʿah (Tadhkirat al-sāmiʿ wa al-mutakallim — on the teacher-student relationship), and modern works on Islamic educational philosophy, curriculum reform, and comparative education studies.",
+      "documentCount": 0,
+      "icon": "🎓",
+      "id": "602",
+      "isHeader": false,
+      "name": "Taʿlīm \u0026 Tarbiyah (Education \u0026 Pedagogy)",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Books on Islamic governance, the nature of the state, the relationship between rulers and subjects, and the legal and political theory of the Islamic community. Topics include: The political theory of Islam — the concept of the state (dawlah), the ruler (imām), and the relationship between religion and politics; The doctrine of the Imamate (Imāmah) and its political implications — the Shīʿa understanding of divinely appointed leadership, and the Sunni understanding of the caliphate; The role of the jurist in governance — the development of the theory of wilāyat al-faqīh (Guardianship of the Jurist) by Imam Khomeini, its textual basis, its development, and its application in the Islamic Republic of Iran; The distinction between the political authority of the Imams and the role of the jurists in their absence (the era of the occultation); The Islamic concepts of justice (ʿadl), consultation (shūrā), mutual responsibility (takāful), and the prohibition of oppression; The Islamic political ethics — the ruler must be just, God-fearing, consultative, and the agent of the community; The rights and duties of subjects — the right to good governance, to representation, to justice, and the duty to obey the legitimate ruler; The nature of the Islamic economy, the taxation system (khums, zakāt), and the distribution of wealth; The political history of Islamic states — the caliphates, dynasties, and their governance structures; The Islamic principles of diplomacy, international relations, war, and peace; The modern challenges — the relationship between Islam and democracy, the concept of human rights, the role of religious minorities, and the place of women in governance; Key works: Al-Aḥkām al-sulṭāniyyah by al-Māwardī (Sunni), Al-Ḥukūmah al-Islāmiyyah by Imam Khomeini (the text on wilāyat al-faqīh), the works of al-Fārābī on the ideal state, and the works of modern scholars like Ayatollah Khamenei and Abdolkarim Soroush.",
+      "documentCount": 0,
+      "icon": "🏛️",
+      "id": "603",
+      "isHeader": false,
+      "name": "Siyāsah (Governance \u0026 Political Theory)",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Books on Islamic social manners, etiquette, and interpersonal conduct — the foundation of harmonious community life and the cultivation of noble character. Topics include: The Islamic concept of ādāb — the refinement of the soul and the practice of good manners in all human interactions; The etiquette of daily life — eating, drinking, sleeping, waking, dressing, and personal hygiene; The etiquette of entering and leaving homes — asking for permission, the Islamic greeting (salām) and its importance, and the rules of visiting; The etiquette of travel — preparation, adab of the journey, and the rules of hospitality; The etiquette of companionship — the rights of the friend, the neighbor, the guest, and the host; The ethics of speech — the prohibition of backbiting (ghībah), slander (buhtān), gossip, lying, and the importance of truthfulness and kind speech; The etiquette of the masjid — entering and leaving, sitting, the prayer, and the respect for the sacred space; The etiquette of the marketplace — business ethics, honesty, fairness, and the prohibition of fraud; The etiquette of the teacher-student relationship — the honor of knowledge, the respect for the teacher, and the humility of the student; The Islamic concept of hospitality — the rights of the guest and the host; The etiquette of social gatherings and community events; The rules of friendship — loving for the sake of God, the boundaries of love, and the avoidance of harmful companionship; The etiquette of mourning and condolence; The Islamic manners of receiving and giving gifts; The relationship with the non-Muslim world — respect, justice, and kindness in interfaith interactions; and the application of these principles to modern life — social media etiquette, work ethics, and the etiquette of the digital age. Key works: The classical books on adab like Al-Ādāb al-sharʿiyyah by Ibn ʿAqīl, Adab al-ʿālim wa al-mutaʿallim by al-Ghazālī, and the extensive adab sections in the works of al-Kulaynī and al-Fayḍ al-Kāshānī.",
+      "documentCount": 0,
+      "icon": "🤝",
+      "id": "604",
+      "isHeader": false,
+      "name": "Ādāb \u0026 Social Etiquette (Adab)",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Books addressing the Islamic framework for family life, social relationships, and communal harmony — the ethics of the home and society. Topics include: The Islamic concept of the family as the foundational unit of society — the social and spiritual importance of the family; Marriage (nikāḥ) — its purpose (the establishment of tranquility, love, and mercy — mawaddah wa raḥmah), its conditions, the rights and responsibilities of spouses, mutual love, mercy, and the importance of compatibility and consent; Temporary marriage (mutʿah) — its rules and its distinctive Shīʿa legal status; Parenting and child-rearing (tarbiyah al-awlād) — the rights of children (to a good name, to education, to love, to provision, to the purity of lineage), the nurturing of faith, discipline, education, and emotional well-being; The importance of maintaining ties of kinship (ṣilat al-raḥim) — the extended family, the rights of relatives, and the prohibition of cutting off relations; Respect and care for parents, especially in old age — the rights of parents, filial piety (birr al-wālidayn), and the honor and obedience to parents; The extended family structure and its social significance — the family as a network of mutual support and responsibility; Intergenerational relationships and responsibilities — the connection between generations, the preservation of tradition, and the guidance of the young; Family disputes and conflict resolution from an Islamic perspective — arbitration (taḥkīm), patience, and the Islamic approach to reconciliation; The role of the family in preserving Islamic identity and values — the transmission of faith from generation to generation; Social ethics — the ethics of the neighborhood, neighborly rights, community obligations (farḍ kifāyah), hospitality, generosity, and mutual responsibility (takāful ijtimāʿī); The concept of brotherhood/sisterhood (ukhūwah) in Islam — the unity of the believers; Youth and adolescent issues — identity, peer pressure, moral challenges, and mentorship; Premarital counseling and family planning; Maintaining healthy marriages and preventing divorce — the importance of love, mutual respect, intimacy, and communication; Domestic harmony and managing conflict in the home; The impact of modern social challenges (social media, materialism, individualism) on family life; and practical guidance for building cohesive, loving, and faith-centered households. Key works: Family ethics and chapters on marriage, parenting, and community responsibility in the comprehensive fiqh and ethics literature (e.g., al-Maḥajjah al-bayḍā), and modern works by contemporary scholars and family counselors.",
+      "documentCount": 0,
+      "icon": "🏠",
+      "id": "605",
+      "isHeader": false,
+      "name": "Family \u0026 Social Ethics",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Books exploring the role, rights, and status of women in Islam from theological, legal, historical, and social perspectives — a comprehensive examination of this important subject. Topics include: The theological and spiritual station of women in Islam — their equal reward, accountability, and spiritual potential before Allāh as emphasized in the Qurʾān and Sunnah; The legal rulings specific to women — menstruation (ḥayḍ), postnatal bleeding (nifās), pregnancy, breastfeeding (riḍāʿah), and the rules of hijab and modest dress; Marriage (nikāḥ) — women\u0027s rights to choose a spouse, the dower (mahr), the maintenance (nafaqah), and their rights and responsibilities in marriage; Divorce (ṭalāq) — women\u0027s rights, the khulʿ (divorce initiated by the wife), and the waiting period (ʿiddah); Inheritance (mīrāth) — the fixed shares and the rules governing women\u0027s inheritance; Child custody (ḥiḍānah) — the rules of custody and the mother\u0027s right; The biographies of prominent female figures in Islamic history: Khadījah bint Khuwaylid — the first wife of the Prophet and the first to believe; Fāṭimah al-Zahrāʾ — the daughter of the Prophet and the central figure of Shīʿa piety; Zaynab bint ʿAlī — the heroine of Karbalā and the powerful preacher; Maryam (Mary), the mother of ʿĪsā — the most honored woman in Islam; Āsiyah, the wife of Pharaoh — the woman of faith; Hājar, the wife of Ibrāhīm — the mother of Ismāʿīl; and other righteous women from Islamic history (e.g., the companions, wives of the Prophet, and their sisters); Contemporary issues — domestic violence (the Islamic prohibition and the conditions for discipline), women\u0027s education and leadership, female religious authority (women as jurists, narrators, and teachers), the \u0027women\u0027s issue\u0027 in modern Muslim societies, feminism and Islam, and refutations of common misconceptions about Islam\u0027s treatment of women; The role of women in the modern Islamic revival and the increasing number of female scholars (e.g., ʿālimah), activists, and leaders. Includes both classical works (like commentaries on Sūrat al-Nisāʾ, Risālat al-ḥijāb, and chapters on women in fiqh manuals) and modern academic, reformist, and apologetic writings addressing Muslim women\u0027s lived experiences across diverse cultures.",
+      "documentCount": 0,
+      "icon": "👩",
+      "id": "606",
+      "isHeader": false,
+      "name": "Women in Islam",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Simplified, engaging, and age-appropriate books designed for children and young readers to learn about Islam in an accessible, enjoyable, and interactive manner. Topics include: The basic beliefs (Tawḥīd, prophethood, Imāmah, the afterlife) presented in child-friendly language with engaging illustrations; The simplified stories of the prophets (Ādam, Nūḥ, Ibrāhīm, Mūsā, ʿĪsā, and Muḥammad) with moral lessons; The stories of the 12 Infallible Imams (a.s) highlighting their virtues, miracles, and struggles; The ethical and moral lessons (honesty, kindness, patience, gratitude, forgiveness, respect for parents, helping others) taught through stories and relatable examples; The learning of how to perform ṣalāt (prayer) and fast during Ramaḍān — step-by-step guides with illustrations; The memorization of short sūrahs from the Qurʾān (like al-Fātiḥah, al-Ikhlāṣ, al-Falaq, al-Nās) with simple explanations; The daily supplications (adhkār for waking, sleeping, eating, traveling, etc.) presented in a way that children can easily learn and apply; The introduction to ḥalāl and ḥarām concepts (the permissibility and prohibition of food, drink, and actions); The Islamic etiquette (ādāb) for daily life — the etiquette of eating, sleeping, greeting, and visiting; The interactive and engaging formats: illustrated storybooks, coloring books, workbooks with activities and quizzes, board books for toddlers, comic-style graphic novels, and textbooks for Islamic schools; The content aims to build a strong foundational Islamic identity (tarbiyah) while nurturing love for Allāh, the Prophet (ṣ.a.w.a), and the Ahl al-Bayt (a.s) in young hearts; The role of children\u0027s literature in the transmission of faith, values, and culture to the next generation; and the importance of age-appropriate content that respects the child\u0027s cognitive and emotional development.",
+      "documentCount": 0,
+      "icon": "👶",
+      "id": "607",
+      "isHeader": false,
+      "name": "Children\u0027s Islamic Literature",
+      "parentSection": "Section 6: Adab \u0026 Taʿlīm (Social, Educational \u0026 Linguistic Studies)"
+    },
+    {
+      "description": "Multi-volume encyclopedic works that cover multiple Islamic sciences in a single collection — the comprehensive reference works of the Shīʿa tradition. Topics include: Biḥār al-anwār (Oceans of Lights) by al-Majlisī, a 110-volume collection covering ḥadīth, history, theology, ethics, duʿāʾ, and eschatology — it is the most comprehensive Shīʿa encyclopedia of the classical period; Wasāʾil al-shīʿa by al-Ḥurr al-ʿĀmilī, a 20-volume collection of ḥadīth organized by the chapters of fiqh; Mustadrak al-wasāʾil — a supplement to the Wasāʾil; Al-Kāfī by al-Kulaynī — the earliest and most important of the four books; Al-Tahdhīb and Al-Istibṣār by al-Ṭūsī — the other two of the four books; The Jāmiʿ works often cover all aspects of Islamic life — they are the primary references for scholars, and they represent the culmination of Islamic scholarship in a given period; The structure of these encyclopedias — their organization, their methodology of inclusion, and their role as a comprehensive resource; The relationship between these works and the other sciences (tafsīr, history, ethics, etc.); and the modern encyclopedias that update and supplement the classical tradition (e.g., the works of Āqā Buzurg al-Tihrānī).",
+      "documentCount": 0,
+      "icon": "📚",
+      "id": "701",
+      "isHeader": false,
+      "name": "Jāmiʿ (Comprehensive Encyclopedias)",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Books that index and catalogue other books, authors, and ḥadīth collections — the essential navigation tools for the vast Islamic library. Topics include: Bibliographies of Shīʿa works — Al-Dharīʿah ilā taṣānīf al-shīʿa by Āqā Buzurg al-Tihrānī, a 25-volume bibliography that lists every known Shīʿa work from the earliest period to the 20th century, documenting authors, contents, and editions — it is the most comprehensive source for Shīʿa bibliography; Indexes of Qurʾānic verses in ḥadīth books — the comprehensive indexes that allow researchers to find specific verses and their interpretations; Indexes of ḥadīth narrators and chains of transmission — the cataloguing of narrators and their reliability; Alphabetical subject guides — the topical indexes and the organization of knowledge by theme; The compilations of fihris by early scholars (like Fihrist al-Ṭūsī, Fihrist al-Najāshī) that catalogued the books available in their time; The use of fahāris in the study of history, law, and theology — the tracking of intellectual lineages and the documentation of the development of ideas; The modern development of comprehensive indexes — both print and digital; and the use of these catalogs in the research and verification of sources.",
+      "documentCount": 0,
+      "icon": "🗃️",
+      "id": "702",
+      "isHeader": false,
+      "name": "Fahāris (Indexes \u0026 Bibliographies)",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Books applying Islamic principles to modern issues — the application of the tradition to the challenges of the 21st century. Topics include: Bioethics — organ donation (permissibility, conditions), IVF and assisted reproductive technologies (cloning, genetic engineering, surrogacy), stem cell research, the definition of death, the ethics of organ transplantation, and the ethics of human enhancement; Economics — Islamic banking and finance (the prohibition of ribā/interest, the alternatives, the contracts of mudārabah, mushārakah, etc.), the permissibility of cryptocurrency, stock markets, and modern financial instruments; Politics — governance, the theory of wilāyat al-faqīh (Guardianship of the Jurist), the Islamic state in the modern context, the relationship with the West, human rights, democracy, and the Islamic response to colonialism and imperialism; Social issues — gender equality, family planning, women\u0027s rights, the challenges of modernity, the crisis of identity, and the role of Islam in the public sphere; Technology — the ethics of artificial intelligence, social media, and the digital age; International relations — war and peace in the modern context, the Islamic perspective on terrorism and just war; Environmental ethics — the Islamic responsibility toward the environment, climate change, and the prohibition of waste; The contemporary fatwā collections and the rulings of living marājiʿ (jurists) — the application of fiqh to the new conditions of modern life; and the works of modern Islamic thinkers (Sayyid Quṭb, ʿAlī Sharīʿatī, Tariq Ramadan, etc.) on the adaptation of Islamic principles to modern challenges.",
+      "documentCount": 0,
+      "icon": "🕒",
+      "id": "703",
+      "isHeader": false,
+      "name": "Current Affairs \u0026 Contemporary Issues",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Books that study and compare other religions (Judaism, Christianity, Zoroastrianism, Hinduism, Buddhism) as well as the diverse sects, schools, and movements within Islam. Topics include: The comparative study of the world\u0027s religions from an Islamic perspective — their origins, beliefs, practices, scriptures, and their relation to Islam; The major Islamic sects: Shīʿa Twelver (the focus of this library), Ismāʿīlī, Zaydī; the Sunni madhāhib (the four major schools of Sunni jurisprudence — Ḥanafī, Mālikī, Shāfiʿī, and Ḥanbalī); the Ibāḍī school; The theological and legal differences between the sects — their methodologies (uṣūl al-fiqh), their core beliefs (ʿaqīdah), and their historical development; The historical development of each group — their origins, their leaders, their influence, and their contemporary status; Modern movements — Wahhabism, Salafism (and its variants), Deobandism, Barelvism, Bohra traditions, and other contemporary Islamic trends; Theological refutations (radd) — the works that critique other religions and sects from an Islamic perspective; Interfaith dialogue and comparative theology — the study of common ground and the respectful engagement with other faiths; The works of classical comparativists like al-Shahrastānī (Al-Milal wa al-niḥal), Ibn Ḥazm (Al-Faṣl), al-Baghdādī (Kitāb al-firaq); and contemporary comparative studies that address the modern context and the challenges of pluralism. This sub-section is essential for understanding the diversity of the Islamic world and the broader religious landscape.",
+      "documentCount": 0,
+      "icon": "🌐",
+      "id": "704",
+      "isHeader": false,
+      "name": "Firaq \u0026 Madhāhib (Comparative Religions \u0026 Islamic Sects)",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Dedicated works examining the points of agreement and disagreement between the two main traditions of Islam — a specialized and important field of study. Topics include: The historical origins of the Shīʿa-Sunni schism — the event of Saqīfah, the succession to the Prophet, the Battle of Jamal, and the development of separate theological, legal, and historical traditions; The theological differences — the doctrine of Imamate (divine successorship vs. elective caliphate), the infallibility (ʿiṣmah) of the Imams vs. the fallibility of all figures, the role of reason and revelation in theology, the nature of divine justice (ʿadl), and the position of the companions (the doctrine of ʿadālah al-ṣaḥābah vs. the Shīʿa critique of certain companions); The legal differences — the methodology of jurisprudence (uṣūl al-fiqh), the sources of law (the role of consensus, analogy, and reason), and the differences in actual legal rulings (especially in acts of worship, marriage, divorce, inheritance, food, and criminal law); The historical figures — the evaluation of the companions, the caliphs, and the other historical figures; The modern movements and the contemporary relationships between the two communities; The works that compare the two traditions and seek to foster mutual understanding (al-maqārib and al-muwāzana); The polemical works that defend each tradition and critique the other; The historical and theological works of scholars like al-Ṭūsī, al-Mufīd, al-Kāshānī, and modern comparativists who study the similarities and differences; and the practical application of this knowledge in promoting dialogue, mutual respect, and cooperation between the two communities.",
+      "documentCount": 0,
+      "icon": "🤝",
+      "id": "705",
+      "isHeader": false,
+      "name": "Shīʿa-Sunni Comparative Studies",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Collections of fatwas (legal responses) from major jurists, both historical and contemporary — the living tradition of Islamic jurisprudence in practice. Topics include: The definition and methodology of fatwā — the legal opinion given by a qualified jurist (muftī) in response to a specific question; The sources of fatwā — the Qurʾān, Sunnah, consensus, and reason; The distinction between a fatwā and a judicial verdict (qadāʾ); The various fatwā collections of the major jurists: the works of Shaykh al-Mufīd (al-Ajwibah al-mufīdah), the fatwās of al-Ṭūsī (al-Mabsūṭ), the comprehensive fatwā collections of ʿAllāmah al-Ḥillī and modern marājiʿ like Khomeini (Tawḍīḥ al-masāʾil), Khamenei (Ajwibat al-istiftāʾāt), Sīstānī (al-Masāʾil al-muntakhabah), and others; The fatwās on various topics — from worship to transactions, family law, and criminal law; The fatwās on contemporary issues — bioethics, banking, technology, and international relations; The evolution of fatwā methodology and the adaptation of fiqh to new circumstances; The role of fatwā in the lives of the believers — the guidance and the personal application of Islamic law; The different ways of issuing fatwas — individual rulings, collective fatwas (from seminaries), and the role of the marājiʿ in guiding the community; and the contemporary challenges of issuing fatwas in the digital age (online fatwas, the problem of unqualified people issuing fatwas, etc.). This sub-section serves as a practical guide for believers and a record of the evolution of Islamic law.",
+      "documentCount": 0,
+      "icon": "📜",
+      "id": "706",
+      "isHeader": false,
+      "name": "Fatāwā \u0026 Ajwibah (Legal Rulings)",
+      "parentSection": "Section 7: Jāmiʿ, Fahāris \u0026 Murājaʿāt (General \u0026 Reference Works)"
+    },
+    {
+      "description": "Collections of poetry in praise of the Prophet (ṣ.a.w.a), the Imams (a.s), and spiritual themes — the rich poetic tradition of Islam. Topics include: The praise of the Prophet (Madīḥ al-Nabī) — the poems composed in his honor, including the famous Qaṣīdat al-Burdah by al-Buṣīrī, and other classical and modern panegyrics; The praise of the Imams (Madīḥ al-Imāmiyyah) — the poetry dedicated to Imam ʿAlī (a.s), Imam Ḥusayn (a.s), and the other Imams, expressing love, devotion, and mourning; The eulogies of Karbalā (Marthiyyah) — the poems of lamentation for the martyrs of Karbalā, the most powerful genre of Islamic devotional poetry; The spiritual and mystical poetry — the works of Rūmī, Ḥāfiẓ, and other great mystic poets (though their works are more popular in broader Persianate culture, they also have Islamic themes); The poetry of the Islamic poets of the early Islamic period and the Umayyad, Abbasid, and later dynasties (e.g., al-Mutanabbī, al-Farazdaq, Jarīr, and the Shīʿa poets like Kumayt ibn Zayd and al-Sayyid al-Ḥimyarī); The role of poetry in Islamic culture — the preservation of Arabic and Persian languages, the transmission of values, and the expression of Islamic sentiments; The poetic forms and styles — the qaṣīdah, ghazal, rubāʿiyyāt, and modern forms; The contemporary Islamic poetry and the revival of poetic traditions in the modern world; The study of Islamic poetry as a literary and historical source.",
+      "documentCount": 0,
+      "icon": "📜",
+      "id": "801",
+      "isHeader": false,
+      "name": "Al-Shiʿr al-Islāmī (Islamic Poetry)",
+      "parentSection": "Section 8: Al-Adab \u0026 al-Funūn (Literature, Poetry \u0026 The Arts)"
+    },
+    {
+      "description": "Historical and fictional stories with moral and ethical lessons, often inspired by Islamic history and tradition. Topics include: The Islamic stories of the prophets and their peoples (Qiṣaṣ al-Anbiyāʾ — covered in more detail in Section 3.6); The stories of the companions and the early Muslims; The stories of the martyrs and the heroic events (including the story of Karbalā and the biographies of the Imams); The historical narratives of Islamic victories, trials, and the lives of the pious; The folk tales and popular stories that have moral and ethical lessons, often derived from Islamic and pre-Islamic heritage; The stories of the kings, sultans, and historical figures of the Islamic world (e.g., the stories of the ʿAbbasid caliphs and their courts); The narratives of travel (riḥlāt) — the accounts of travelers who documented their journeys across the Islamic world (like Ibn Baṭṭūṭah and al-Masʿūdī), serving as both historical and literary sources; The works of Islamic fiction — novels and short stories from the modern Islamic literary tradition (e.g., the works of Naguib Mahfouz, although he writes more broadly about Egyptian society, his work has Islamic themes; and the more explicitly Islamic fiction from other authors); The stories of the Ṣūfī masters and their spiritual experiences; The narratives of Islamic utopias and visions of the ideal society; The transmission of moral and ethical values through storytelling; and the contemporary Islamic literature that engages with modern themes and challenges.",
+      "documentCount": 0,
+      "icon": "📖",
+      "id": "802",
+      "isHeader": false,
+      "name": "Qaṣaṣ wa Riwāyāt (Stories \u0026 Narratives)",
+      "parentSection": "Section 8: Al-Adab \u0026 al-Funūn (Literature, Poetry \u0026 The Arts)"
+    },
+    {
+      "description": "Books on the art of beautiful writing, particularly of the Qurʾān — the artistic and spiritual tradition of calligraphy. Topics include: The history of Arabic calligraphy — its origins, development, and the great calligraphers of the Islamic world; The styles of Arabic calligraphy — Kufic (the earliest style), Naskh (the most common for printing and copying), Thuluth (used for decoration), Diwani (used in official documents), Riqʿa (used for everyday writing), and Muhaqqaq (used in the writing of the Qurʾān); The tools and materials of calligraphy — the pen (qalam), the ink, the paper, and the techniques; The art of composition and illumination — the ornamentation of manuscripts, the use of geometric patterns and floral motifs; The significance of calligraphy in Islamic culture — as the visual representation of the Word of God (the Qurʾān) and as a highly respected and sacred art; The role of calligraphy in mosque decoration, the design of the dome, the minbar, and the mihrab; The connection between calligraphy and Islamic spirituality — the meditative nature of the practice, the discipline, and the pursuit of perfection; The modern revival and continuation of the tradition in the Islamic world; The study of famous calligraphers and their schools (the school of Ibn Muqla and the school of al-Bawwāb); The practical guides and manuals for learning calligraphy; and the preservation of the tradition in the contemporary era.",
+      "documentCount": 0,
+      "icon": "✒️",
+      "id": "803",
+      "isHeader": false,
+      "name": "Fann al-Khaṭṭ (Islamic Calligraphy)",
+      "parentSection": "Section 8: Al-Adab \u0026 al-Funūn (Literature, Poetry \u0026 The Arts)"
+    },
+    {
+      "description": "Books discussing the Islamic perspective on music, including its permissibility, history, and use in spiritual practices. Topics include: The legal and theological debates on music (Musīqā) — the permissibility (ḥalāl) vs. prohibition (ḥarām) of listening to and performing music in Islam (the juristic opinions vary, with some jurists forbidding all music, others allowing certain forms, and the difference between classical and popular music); The music of the Islamic world — the various musical traditions (classical Arabic, Persian, Turkish, Indian, African, and Indonesian) and their development; The use of music in spiritual and devotional contexts — the practice of Samāʿ (listening) in Ṣūfī and mystical traditions (as a means of raising the heart to God, the use of songs of praise, and the spiritual chants); The relationship between music and poetry — the union of the two in the nasheed and the poetic tradition; The music of the ḥarīm (the private spaces of the family) and the public music; The instruments of Islamic music — the oud, the qanun, the ney, the daf, the frame drums, and their historical significance; The concept of maqām — the modal system in Arabic and Turkish music; The modern development of Islamic music (the emergence of contemporary nasheed and devotional music, and the influence of globalization); The works of scholars on music, including the detailed legal opinions (fatāwā) on the permissibility of music; and the role of music in the modern Islamic identity, including its use in youth engagement and activism. Note: This sub-section is often considered a subset of the broader discussion on ethics (akhlāq) and law (fiqh).",
+      "documentCount": 0,
+      "icon": "🎵",
+      "id": "804",
+      "isHeader": false,
+      "name": "Fann al-Mūsīqā (Music \u0026 Spirituality)",
+      "parentSection": "Section 8: Al-Adab \u0026 al-Funūn (Literature, Poetry \u0026 The Arts)"
+    },
+    {
+      "description": "Books detailing the moment of death, the questioning in the grave, the punishment/pleasure of the grave (ʿAdhāb/Qinʿ al-Qabr), and the state of the soul between death and resurrection — the beginning of the afterlife journey. Topics include: The moment of death — the stages of death, the agony and the detachment of the soul; The condition of the soul immediately after death (the departure of the angels of death, and the state of the believer vs. the disbeliever); The questioning in the grave (Sūʼal al-Qabr) — the interrogation by the angels Munkar and Nakīr regarding faith, the Prophets, and actions; The punishment of the grave (ʿAdhāb al-Qabr) and the pleasure of the grave (Qinʿ al-Qabr) — the rewards for the righteous and the torment for the sinful (and the debates over whether this is spiritual or physical); The concept of the barzakh — the intermediate state between death and resurrection, where the soul exists in a different dimension and experiences a preliminary judgment; The state of the soul and its relation to the body after death; The intercession (shafāʿah) for the dead — the prayers and requests for forgiveness; The role of righteous deeds (like charity and prayers) in helping the deceased; The books of the great scholars on this topic (Kitāb al-Rūḥ by Ibn Qayyim al-Jawziyyah, and the extensive chapters in Biḥār al-anwār); The death of the Prophets and Imams, and the significance of their martyrdom; and the preparation for death (the importance of repentance, self-accounting, and the good death). This sub-section is essential for understanding the Islamic view of the afterlife and the importance of living a righteous life.",
+      "documentCount": 0,
+      "icon": "💀",
+      "id": "901",
+      "isHeader": false,
+      "name": "Al-Mawt wa al-Barzakh (Death \u0026 the Grave)",
+      "parentSection": "Section 9: Ākhir al-Zamān (Eschatology \u0026 The End of Times)"
+    },
+    {
+      "description": "Books specifically dedicated to the portents and signs that must occur before the Day of Judgment — the detailed prophecies about the end of time. Topics include: The distinction between minor signs (al-ashrāṭ al-ṣughrā) and major signs (al-ashrāṭ al-kubrā); Minor signs — widespread corruption, the loss of knowledge, the increase of ignorance and immorality, the appearance of religious hypocrisy, the abundance of earthquakes, the disappearance of justice, the rise of the irrational and the spread of apostasy, the prevalence of usury (ribā) and the use of interest-bearing transactions, the breakdown of family ties, and the spread of materialism; The specific minor signs reported in the ḥadīth (the signs of the Hour), including the emergence of the Dajjāl (the Antichrist), the descent of Prophet ʿĪsā (Jesus) from the heavens, the appearance of the Beast (Dābbat al-Arḍ), the rising of the sun from the West, the smoke (Dukhān) that will cover the earth, the destruction of the Kaʿbah, and the massive loss of life; The major signs — these include the coming of the Mahdī, the descent of ʿĪsā, the Dajjāl, the Beast, the smoke, the sun from the West, the fire of Yemen, and the earthquake; The sequence and timing of the signs (the chronology of events); The signs as a test and a warning — a call to repentance and preparation; The works of the classical scholars who collected and analyzed the signs (Kitāb al-fitan by Nuʿaym ibn Ḥammād, Aḥwāl al-qiyāmah by al-Qurṭubī, and the extensive sections in Biḥār al-anwār); The modern discussions on the signs of Qiyamah and the contemporary relevance of these prophecies; The relationship between the signs and the coming of the Mahdī; and the preparation for the end of times (the moral and spiritual readiness).",
+      "documentCount": 0,
+      "icon": "⏳",
+      "id": "902",
+      "isHeader": false,
+      "name": "Ashraṭ al-Sāʿah (Minor \u0026 Major Signs of Qiyamah)",
+      "parentSection": "Section 9: Ākhir al-Zamān (Eschatology \u0026 The End of Times)"
+    },
+    {
+      "description": "Books detailing the actual events of the Day of Judgment itself — the ultimate trial and the final separation of the righteous and the wicked. Topics include: The blowing of the Trumpet (al-Ṣūr) — the first blow that destroys all creation and the second blow that resurrects them; The gathering (al-Ḥashr) — the resurrection of all souls (from the beginning to the end of time), the gathering of all of humanity in the valley of judgment, and the arrangement of the people in ranks; The giving of the books (al-Iʿṭāʾ al-kutub) — the presentation of the deeds (good and bad) in the form of a book, and the joy of the righteous and the terror of the wicked; The weighing of deeds (al-Mīzān) — the scales of justice, the measurement of good and bad deeds, the record of actions, and the precision of justice; The bridge over hellfire (al-Ṣirāṭ) — the path that leads to Paradise, sharper than a sword and finer than a hair, and the passing of the believers, the faltering and the salvation of the faithful; The Intercession (al-Shafāʿah) — the role of the Prophets, the Imams, and the believers in interceding for the people of Paradise and the people of Hell (the Shīʿa doctrine of the intercession of the Imams, particularly Imam ʿAlī and Fāṭimah); The judgment itself — the appearance of God, the consultation of the books, the questioning of the prophets and the communities, and the final separation; The final abode — the entrance into Paradise or the entrance into Hell, the eternal abode, and the vision of God for the righteous; The books on the events of the Day of Judgment (the chapters on Qiyamah in the comprehensive fiqh and ḥadīth works, and the detailed descriptions in the works of al-Ṭūsī and al-Mufīd); The significance of belief in the Day of Judgment for the moral life, and the ethical and theological implications.",
+      "documentCount": 0,
+      "icon": "🌋",
+      "id": "903",
+      "isHeader": false,
+      "name": "Aḥwāl al-Qiyāmah (The Day of Resurrection)",
+      "parentSection": "Section 9: Ākhir al-Zamān (Eschatology \u0026 The End of Times)"
+    },
+    {
+      "description": "Books describing the literal and spiritual realities of Heaven and Hell, their levels, the types of people in each, and the eternal nature of the afterlife. Topics include: The description of Paradise (al-Jannah) — the lush gardens, rivers of milk, honey, and wine (non-intoxicating), the palaces, the company of the righteous, the contentment, the eternal joy, and the vision of God; The levels of Paradise (the highest level is the Firdaws, and the lower levels for the believers of different degrees of righteousness), and the ranks of the inhabitants; The description of Hellfire (al-Nār) — the fire, the chains, the torment, the anguish, the regret, and the despair; The levels of Hell (the various depths), the duration of punishment (the difference between eternal punishment for the polytheists and the temporal punishment for the sinful believers), and the hope of salvation; The concept of the vision of God (al-ruʾyah) — the beating vision of God for the believers; The books that describe Paradise and Hell (Ṣifat al-Jannah wa al-Nār by Ibn Abī al-Dunyā, the detailed sections in Biḥār al-anwār, and the commentaries on the Qurʾānic verses describing the afterlife); The theological implications of Paradise and Hell — the doctrine of justice (ʿadl), mercy, and punishment; The ethical function of belief in Paradise and Hell — the motivation for righteousness and the fear of punishment; The discussions on the nature of the afterlife (the physical vs. spiritual debate) and the debates over the duration of punishment; and the significance of these concepts for the spiritual life and for the preparation for the meeting with God.",
+      "documentCount": 0,
+      "icon": "🌟",
+      "id": "904",
+      "isHeader": false,
+      "name": "Al-Jannah wa al-Nār (Paradise \u0026 Hellfire)",
+      "parentSection": "Section 9: Ākhir al-Zamān (Eschatology \u0026 The End of Times)"
+    },
+    {
+      "description": "Books dedicated to the figure of Imam al-Mahdī (a.s), the 12th Imam, his birth, his occultations (al-ghaybah al-ṣughrā and al-ghaybah al-kubrā), his role as the savior, and his eschatological mission to fill the earth with justice after it has been filled with tyranny. Topics include: The life of Imam al-Mahdī (a.s) — his birth in Sāmarrā in 255 AH/869 CE, his lineage (the son of Imam al-ʿAskarī a.s), and his status as the 12th and final Imam; The minor occultation (al-ghaybah al-ṣughrā) — the period from his birth until 329 AH/940 CE when he was in contact with his followers through appointed deputies (sufarāʾ), and the nature of the deputies and the questions they addressed; The major occultation (al-ghaybah al-kubrā) — the period from 329 AH/940 CE to the present, where he is alive and awaiting the command of God to emerge; The concept of the return (al-rajʿah) — the unique Shīʿa belief in the return of the dead before Qiyamah, the return of the Imams, and the role of the Mahdī in exacting justice and vengeance on the oppressors; The signs of his reappearance (ʿalāmāt al-ẓuhūr) — the specific events that will precede his emergence (the revolt of the Sufyānī, the uprising of the Yamānī, the call from the heavens, the massacre of the Ashʿarīs, etc.); The global government of the Mahdī — his role as the world leader, the establishment of a global, just government, the filling of the earth with justice and equity, the defeat of oppression, and the conversion of the world to true Islam; The books and traditions about the Mahdī — the major works on al-ghaybah (Al-Ghaybah by al-Nuʿmānī and Al-Ghaybah by Shaykh al-Ṭūsī), the comprehensive work Ikmāl al-dīn by al-Ṣadūq, and the prophecies and traditions on the Mahdī that are found in the comprehensive hadith collections; The concept of the Mahdī in Sunni eschatology (the difference between the Shīʿa and Sunni views — the Sunni belief in a Mahdī figure as a righteous caliph, not a divinely appointed Imam; but many Sunnis also have a tradition of a coming Mahdī); The modern interpretations of the Mahdī and the anticipation of his coming; The role of believers during the occultation — the practical guidance for the believer in the absence of the Imam (the principles of taqlīd and the waiting for the Imam); The contemporary relevance of the doctrine of the Mahdī — the importance of justice, patience, and preparation in the waiting period; and the literature of the Imams concerning the occultation, the emergence, and the final victory.",
+      "documentCount": 0,
+      "icon": "🌙",
+      "id": "905",
+      "isHeader": false,
+      "name": "Al-Ghaybah wa al-Mahdawiyyah (The Occultation \u0026 The Mahdī)",
+      "parentSection": "Section 9: Ākhir al-Zamān (Eschatology \u0026 The End of Times)"
+    }
+  ],
+  "timestamp": "2026-08-20T08:57:35Z",
   "totalDocuments": 0,
-  "totalSections": 0
+  "totalSections": 54
 }
